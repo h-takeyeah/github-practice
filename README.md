@@ -1,7 +1,9 @@
 # github-practice
+
 このリポジトリはGitHubの勉強のために作りました。
 
 ## Octocatについて
+
 **Octocat**はGitHubのマスコットキャラクターです。タコとネコが合わさった見た目をしています。
 
 |Octocat|
