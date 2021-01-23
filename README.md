@@ -2,7 +2,7 @@
 
 このリポジトリはGitHubの勉強のために作りました。
 
-## Octocatについて
+## Octocatについて 説明
 
 **Octocat**はGitHubのマスコットキャラクターです。タコとネコが合わさった見た目をしています。
 
@@ -25,6 +25,6 @@ OctocatのTwitterを[**こちら**](https://twitter.com/monatheoctocat)からご
 [3](#Heading3)
 
 ## Heading3
-上の「#Octocatについて」に飛ぶリンクは[これ](#Octocatについて)
+上の「#Octocatについて」に飛ぶリンクは[これ](#Octocatについて 説明)スペースが入ってるけど飛べるのか？
 [1](#Heading1)
 [2](#Heading2)
